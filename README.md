@@ -1,13 +1,12 @@
-## what i do
-im adonis. im 17. i do code.
+## hi
+im adonis. im 17. im a student and i do code. 
 
 - web development (javascript; learning react and electron too for web apps)
 - game development (c# for unity, luau for roblox, lua for modding games, java for modding 
 - software development (qt, c++, learning swift)
 - scripting and automation (python)
 - low level programming (rarer and less experienced but work with C/C++)
-
-![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) Hire me to do your work or something idk
+- IT (server and network management, just more hardware focused stuff)
 
 ## languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
